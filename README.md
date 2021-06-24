@@ -41,3 +41,7 @@ ccc|0점|5점|1점|
 
 강조는 다음과 같이 할 수 있습니다.
 **치킨** 먹고 ~~힝구~~ 입니다.
+
+
+발표 ppt
+[2021_MP_TermProject_Livre.pptx](https://github.com/MinaRoh/Git-Tutorial/files/6706595/2021_MP_TermProject_Livre.pptx)
